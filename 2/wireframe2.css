@@ -1,0 +1,52 @@
+div{
+  border: 1px solid black;
+}
+.container {
+ margin-left: 10%;
+ margin-right: 10%;
+ height: 600px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+}
+.artbox{
+ width: 95%;
+ height: 150px;
+}
+.picbox{
+ margin-top: 25px;
+ margin-bottom: 25px;
+ margin-left: 20px;
+ height: 100px;
+ width: 100px;
+ display: inline-block;
+ float: left;
+}
+.txtbox{
+ height: 100px;
+ width: 80%;
+ margin-right: 20px;
+ margin-top: 25px;
+ display: inline-block;
+ float: right;
+ border: none;
+}
+.picbox-right{
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 20px;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  float: right;
+}
+.txtbox-left{
+  height: 100px;
+  width: 80%;
+  margin-left: 20px;
+  margin-top: 25px;
+  display: inline-block;
+  float: left;
+  border: none;
+}

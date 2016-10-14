@@ -1,0 +1,63 @@
+div{
+  border: 1px solid black;
+}
+.cont{
+  height: 700px;
+  border: 2px solid blue;
+}
+.pic{
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6.5%;
+  margin-bottom: 6.5%;
+}
+.bio{
+  width: 60%;
+  height: 600px;
+  float: right;
+  margin-top: -650px;
+  margin-right: 75px;
+}
+#piccol{
+ width: 25%;
+ height: 100%;
+}
+
+
+
+
+
+
+/*body{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  border: 2px solid orange;
+  flex-wrap: wrap;
+}
+.topleft {
+  border: 1px solid green;
+  width: 100px;
+  height: 100px;
+  /*margin: 30px 100% 10px 30px;*/
+/*}
+.topright{
+  border: 1px solid red;
+  width: 100px;
+  height: 100px;
+  /*margin: 30px 100% 10px 30px;*/
+/*}
+
+.bottomright{
+  border: 1px solid blue;
+  width: 100px;
+  height: 100px;
+  /*margin: 30px 100% 10px 30px;*/
+/*}
+.bottomleft {
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+}*/
